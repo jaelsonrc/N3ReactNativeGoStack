@@ -10,5 +10,4 @@ const AppProvider: React.FC = ({ children }) => {
     </CartProvider>
   );
 };
-
 export default AppProvider;
